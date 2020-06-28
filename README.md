@@ -4,6 +4,8 @@ Welcome! This is a repository for private seminars. Git, Github related contents
 
 This repository describes the basic concepts of git and github. I am trying to provide in various forms, for example blog, words(docs), and pdf etc.
 
+If you want to see the content on blog, you can come to the [link](https://ingbeeedd.github.io/git_github_training/).
+
 For more information on the bug, please contact yeongjae8066@hanmail.net
 
 ### Environment

@@ -2,7 +2,7 @@
 
 Welcome! This is a repository for private seminars. Git, Github related contents are provided in Korean
 
-This repository describes the basic concepts of git and github. I am trying to provide in various forms, for example blog, words(docs), and pdf etc.
+This repository describes the basic concepts of git and github. I am trying to provide in various forms, for example blog, words(docs), and pdf etc. The blog link is as [follows](https://ingbeeedd.github.io/git_github_training/)
 
 For more information on the bug, please contact yeongjae8066@hanmail.net
 

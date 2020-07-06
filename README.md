@@ -10,13 +10,15 @@ For more information on the bug, please contact yeongjae8066@hanmail.net
 1. Window 10
 2. client: Git-bash, sourcetree(option) 
 3. server: Github
+4. editor: Atom
 
 ---
 
 In fact, I have conducted a seminar through this material. The seminar was held at [Naver Cafe](https://cafe.naver.com/stm32study)
 
 1. 2020.05.24 (Toz Sinchon Artreon Branch)
-    The lecture evaluation can be found at the link below.
+    The lecture evaluation can be found at the [link](evaluation/1회차) below.
 
 2. 2020.06.28-07.05(Sinchon Class)
-    The lecture evaluation can be found at the link below.
+    The lecture evaluation can be found at the [link](evaluation/2회차) below.
+

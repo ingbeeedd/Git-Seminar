@@ -7,7 +7,7 @@ This repository describes the basic concepts of git and github. I am trying to p
 For more information on the bug, please contact yeongjae8066@hanmail.net
 
 ### Environment
-1. Window 10
+1. Windows 7 and above (8, 10)
 2. client: Git-bash, sourcetree(option) 
 3. server: Github
 4. editor: Atom
@@ -22,3 +22,7 @@ In fact, I have conducted a seminar through this material. The seminar was held 
 2. 2020.06.28-07.05(Sinchon Class)
     The lecture evaluation can be found at the [link](evaluation/2회차) below.
 
+	![intro](assets/introduction.jpg)
+
+3. Undetermined
+	I aim to open a git advanced course within this year. The content is written on chapter 9 of the blog.
